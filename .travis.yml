@@ -58,7 +58,7 @@ deploy:
   file_glob: true
   skip_cleanup: true
   on:
-    repo: hoshsadiq/bravia-youview-player-launchers
+    repo: CWDN/bravia-youview-player-launchers
     tags: true
     jdk: oraclejdk8
   api_key:
